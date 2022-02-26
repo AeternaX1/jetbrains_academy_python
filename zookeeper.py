@@ -132,4 +132,5 @@ while True:
         exit()
 
     # Check animals list and pass in entered user value
+    # The value of whatever the habitat variable is, casted to an integer
     print(animals[int(habitat)])
