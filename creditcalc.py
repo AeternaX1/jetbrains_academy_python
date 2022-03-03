@@ -101,5 +101,4 @@ elif args.type == "annuity":
 
 else:
     print("Incorrect parameters.")
-
-
+    
